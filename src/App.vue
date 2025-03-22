@@ -111,28 +111,20 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Condor",
-          "alias": "Mito Swavely VII",
+          "callsign": "Gravity Chain",
+          "alias": "Kammy KK Kincade",
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//274e70ac-e5c2-4756-a7b4-6b76b7415b57",
-          "corpro": "SSC",
-          "frame": "Metalmark",
-          "mech": "Craven"
+          "corpro": "GMS",
+          "frame": "Chomolungma",
+          "mech": "Stand And Deliver"
         },
         {
-          "callsign": "Kelpie",
-          "alias": "Izaskun Hommel III",
+          "callsign": "Viper",
+          "alias": "Sparks Lee-sin",
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//7c169109-15ea-4d65-8165-23a9994ff6ae",
-          "corpro": "SSC",
-          "frame": "Duskwing",
-          "mech": "Hey Shadow"
-        },
-        {
-          "callsign": "Echo",
-          "alias": "Servat Radsky",
-          "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//adadc250-dd0d-4fd3-b340-da828f044bb8",
-          "corpro": "IPS-N",
-          "frame": "Caliban",
-          "mech": "Wolf"
+          "corpro": "GMS",
+          "frame": "Chomolungma",
+          "mech": "Peer To Peer Marketing"
         },
       ],
       "header": {
