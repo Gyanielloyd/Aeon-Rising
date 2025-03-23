@@ -126,6 +126,14 @@ export default {
           "frame": "Chomolungma",
           "mech": "Peer To Peer Marketing"
         },
+        {
+          "callsign": "Ender",
+          "alias": "Guy Magitt",
+          "code": "171563ab-249d-4e7a-a6af-5482de0a1cfb//NDL-C-BARYON-FEW",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Fight Like You Mean It"
+        },
       ],
       "header": {
         "planet": "Cressidum",
