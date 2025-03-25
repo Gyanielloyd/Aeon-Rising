@@ -89,18 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "It's not the fall that kills you",
-          "status": "start"
+          "status": "success"
         },
          {
           "slug": "002",
-          "name": "???",
+          "name": "On The Move",
           "status": "start"
         },
         {
