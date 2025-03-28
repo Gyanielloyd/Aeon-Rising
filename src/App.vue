@@ -89,18 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "It's not the fall that kills you",
-          "status": "success"
+          "status": "start"
         },
          {
           "slug": "002",
-          "name": "On The Move",
+          "name": "???",
           "status": "start"
         },
         {
@@ -111,12 +111,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Gravity Chain",
-          "alias": "Kammy KK Kincade",
+          "callsign": "Archon",
+          "alias": "Betty",
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//274e70ac-e5c2-4756-a7b4-6b76b7415b57",
           "corpro": "GMS",
           "frame": "Chomolungma",
-          "mech": "Stand And Deliver"
+          "mech": "Seraphimr"
         },
         {
           "callsign": "Viper",
