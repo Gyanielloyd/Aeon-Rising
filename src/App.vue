@@ -115,7 +115,7 @@ export default {
           "alias": "Betty",
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//274e70ac-e5c2-4756-a7b4-6b76b7415b57",
           "corpro": "GMS",
-          "frame": "Chomolungma",
+          "frame": "Everest",
           "mech": "Seraphimr"
         },
         {
@@ -123,7 +123,7 @@ export default {
           "alias": "Fedora Sparks",
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//7c169109-15ea-4d65-8165-23a9994ff6ae",
           "corpro": "GMS",
-          "frame": "Chomolungma",
+          "frame": "Everest",
           "mech": "Peer To Peer Marketing"
         },
         {
