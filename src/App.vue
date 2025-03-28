@@ -124,7 +124,7 @@ export default {
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//7c169109-15ea-4d65-8165-23a9994ff6ae",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Peer To Peer Marketing"
+          "mech": "Prey"
         },
         {
           "callsign": "Ender",
