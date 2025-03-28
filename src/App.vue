@@ -127,12 +127,12 @@ export default {
           "mech": "Prey"
         },
         {
-          "callsign": "Ender",
-          "alias": "Guy Magitt",
+          "callsign": "Mage",
+          "alias": "Cooper",
           "code": "171563ab-249d-4e7a-a6af-5482de0a1cfb//NDL-C-BARYON-FEW",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Fight Like You Mean It"
+          "mech": "nightshade"
         },
       ],
       "header": {
