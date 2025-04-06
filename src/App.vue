@@ -110,29 +110,29 @@ export default {
         },
       ],
       "pilots": [
-        {
-          "callsign": "Archon",
-          "alias": "Betty",
+ {
+          "callsign": "Gravity Chain",
+          "alias": "Kammy KK Kincade",
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//274e70ac-e5c2-4756-a7b4-6b76b7415b57",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Seraphimr"
+          "frame": "Chomolungma",
+          "mech": "Stand And Deliver"
         },
         {
-          "callsign": "Duster",
-          "alias": "Fedora Sparks",
+          "callsign": "Viper",
+          "alias": "Sparks Lee-sin",
           "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//7c169109-15ea-4d65-8165-23a9994ff6ae",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Prey"
+          "frame": "Chomolungma",
+          "mech": "Peer To Peer Marketing"
         },
         {
-          "callsign": "Mage",
-          "alias": "Cooper",
+          "callsign": "Ender",
+          "alias": "Guy Magitt",
           "code": "171563ab-249d-4e7a-a6af-5482de0a1cfb//NDL-C-BARYON-FEW",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "nightshade"
+          "mech": "Fight Like You Mean It"
         },
         {
           "callsign": "Rabu",
