@@ -134,6 +134,14 @@ export default {
           "frame": "Everest",
           "mech": "nightshade"
         },
+        {
+          "callsign": "Rabu",
+          "alias": "Nye Zin",
+          "code": "3d6ca0e0-e73d-4f0c-b161-09a28535bf3b//274e70ac-e5c2-4756-a7b4-6b76b7415b57",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Mojo Filter"
+        },
       ],
       "header": {
         "planet": "Cressidum",
